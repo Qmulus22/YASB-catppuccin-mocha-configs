@@ -4,7 +4,13 @@ A custom **YASB (Yet Another Status Bar)** configuration inspired by the **Catpp
 
 ## Preview
 
-> Add screenshots here
+### Full Desktop
+
+![Full Desktop Preview](preview.png)
+
+### Top Navigation Bar
+
+![Top Navigation Bar](top-nav.png)
 
 ## Features
 
